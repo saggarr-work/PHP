@@ -1,0 +1,19 @@
+.coding{
+    width: 600px auto;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background: #ddd;
+    padding: 20px;
+}
+
+.header, .footer{
+    width: 600px auto;
+    background: rgb(141, 140, 141);
+    text-align: center;
+    color: #fff;
+}
+
+.main{
+    min-height: 400px;
+}
